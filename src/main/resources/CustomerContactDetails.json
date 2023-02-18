@@ -1,0 +1,25 @@
+[ {
+  "customertid" : "123",
+  "customercontacts" : {
+    "secondary" : "0480XXXXXX",
+    "primary" : "0470XXXXXX"
+  },
+  "customername" : "Ram",
+  "status" : "Y"
+}, {
+  "customertid" : "456",
+  "customercontacts" : {
+    "secondary" : "0460XXXXXX",
+    "primary" : "0450XXXXXX"
+  },
+  "customername" : "Rahul",
+  "status" : "Y"
+}, {
+  "customertid" : "789",
+  "customercontacts" : {
+    "secondary" : "0490XXXXXX",
+    "primary" : "0480XXXXXX"
+  },
+  "customername" : "John",
+  "status" : "Y"
+} ]
